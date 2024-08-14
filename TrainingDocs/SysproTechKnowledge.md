@@ -1,8 +1,8 @@
-<H2> 0901-SS-SY-BIS-SYSPRO Technical Knowledge Base
+<H2> 0901-SS-SY-BIS-SYSPRO Technical Knowledge Base </H2>
 
-<H3> Example Topic
+<H3> Example Topic </H3>
 
-<H4> In this article
+<H4> In this article </H4>
 
 - [Overview](#overview)
   - [Pre-requisites](#pre-requisites)
