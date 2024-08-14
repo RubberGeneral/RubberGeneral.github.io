@@ -79,7 +79,7 @@ Once the pre-requisites have all been met and you have reached a point in time w
 
 Within this application you have the option to submit journals for the four different project recovery types. You can now select the correct 'Submit Journals' dashboard that is applicable to the transaction you need to process.
 
-<img src='/trainingdocs/images/testimage2.png'>
+<img src='/TrainingDocs/images/TestImage2.png'>
 
 When you are using any of the 'Submit Journals' dashboards, you will first be required to input a date to search for a range of sub-contract milestones and click on search. This will search for all of the sub-contract milestones relating to the type of transaction, i.e. Profit Margin, within the month and year for the date you have selected. The search functionality is based on the forecast date of the milestones of the sub-contract.
 
