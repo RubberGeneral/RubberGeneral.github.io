@@ -1,26 +1,20 @@
-<! -- omit in toc -->
-## 0901-SS-SY-BIS-SYSPRO Technical Knowledge Base
+<H2> 0901-SS-SY-BIS-SYSPRO Technical Knowledge Base
 
-<! -- omit in toc -->
-### Example Topic
+<H3> Example Topic
 
-<! -- omit in toc -->
-#### In this article
+<H4> In this article
 
-- [0901-SS-SY-BIS-SYSPRO Technical Knowledge Base](#0901-ss-sy-bis-syspro-technical-knowledge-base)
-  - [Example Topic](#example-topic)
-    - [In this article](#in-this-article)
-  - [Overview](#overview)
-    - [Pre-requisites](#pre-requisites)
-    - [What is Project Recovery Journals?](#what-is-project-recovery-journals)
-    - [Contents of the Project Recovery Journals application](#contents-of-the-project-recovery-journals-application)
-    - [The workflow process for Project Recovery Journals](#the-workflow-process-for-project-recovery-journals)
-  - [Tutorial](#tutorial)
-    - [How does it work?](#how-does-it-work)
-    - [Submitting Project Recovery Journals for approval](#submitting-project-recovery-journals-for-approval)
-    - [Approving/Posting Project Recovery Journals](#approvingposting-project-recovery-journals)
-  - [Troubleshooting](#troubleshooting)
-    - [Frequently Asked Questions](#frequently-asked-questions)
+- [Overview](#overview)
+  - [Pre-requisites](#pre-requisites)
+  - [What is Project Recovery Journals?](#what-is-project-recovery-journals)
+  - [Contents of the Project Recovery Journals application](#contents-of-the-project-recovery-journals-application)
+  - [The workflow process for Project Recovery Journals](#the-workflow-process-for-project-recovery-journals)
+- [Tutorial](#tutorial)
+  - [How does it work?](#how-does-it-work)
+  - [Submitting Project Recovery Journals for approval](#submitting-project-recovery-journals-for-approval)
+  - [Approving/Posting Project Recovery Journals](#approvingposting-project-recovery-journals)
+- [Troubleshooting](#troubleshooting)
+  - [Frequently Asked Questions](#frequently-asked-questions)
 
 ### Overview
 
