@@ -1,20 +1,57 @@
-/* Ensure the container takes the full width of the viewport */
+/* Basic reset for margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Header styling */
+.header {
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: space-between; /* Distribute space between items */
+    background-color: #333; /* Header background color */
+    color: white; /* Header text color */
+}
+
+/* Style the logo image */
+.logo {
+    height: 85px; /* Adjust the height of the logo */
+    width: auto; /* Maintain aspect ratio */
+}
+
+.title {
+    flex-grow: 1; /* Allow title to take up remaining space */
+    margin: 0; /* Remove default margin */
+}
+
+.menu-toggle {
+    font-size: 24px; /* Size of hamburger menu icon */
+    background: none; /* Remove default button background */
+    border: none; /* Remove default button border */
+    color: white; /* Button text color */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+/* Container for the main content */
 .container {
-    display: flex; /* Use flexbox to arrange children horizontally */
-    width: 100vw;  /* Full viewport width */
-    height: 100vh; /* Full viewport height (optional) */
+    display: flex;
+    width: 100vw; /* Full viewport width */
+    height: calc(100vh - 60px); /* Full viewport height minus header height */
 }
 
 /* Style the left section */
 .left {
-    flex: 1;               /* Take up remaining space */
-    background-color: #f4f4f4; /* Background color */
-    padding: 20px;         /* Add some padding */
+    width: 350px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 /* Style the right section */
 .right {
-    flex: 1;               /* Take up remaining space */
-    background-color: #e2e2e2; /* Background color */
-    padding: 20px;         /* Add some padding */
+    flex: 1;
+    background-color: #e2e2e2;
+    padding: 20px;
+    box-sizing: border-box;
 }
