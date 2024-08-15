@@ -1,4 +1,6 @@
-<H2> 0901-SS-SY-BIS-SYSPRO Technical Knowledge Base </H2>
+[Home](/index.md) / Example Topic
+
+<!-- <H2> 0901-SS-SY-BIS-SYSPRO Technical Knowledge Base </H2> -->
 
 <H3> Example Topic </H3>
 
