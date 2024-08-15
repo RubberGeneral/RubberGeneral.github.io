@@ -3,7 +3,7 @@ logo: /assets/image/ppe_logo.png
 description: This is my test on creating a GitHub pages Knowledge Base
 show_downloads: true
 google_analytics:
-theme: github-pages-minimal
+theme: jekyll-theme-minimal
 
 # remote_theme: pages-themes/cayman@v0.2.0
 # plugins:
