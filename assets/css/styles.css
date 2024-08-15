@@ -1,0 +1,20 @@
+/* Ensure the container takes the full width of the viewport */
+.container {
+    display: flex; /* Use flexbox to arrange children horizontally */
+    width: 100vw;  /* Full viewport width */
+    height: 100vh; /* Full viewport height (optional) */
+}
+
+/* Style the left section */
+.left {
+    flex: 1;               /* Take up remaining space */
+    background-color: #f4f4f4; /* Background color */
+    padding: 20px;         /* Add some padding */
+}
+
+/* Style the right section */
+.right {
+    flex: 1;               /* Take up remaining space */
+    background-color: #e2e2e2; /* Background color */
+    padding: 20px;         /* Add some padding */
+}
