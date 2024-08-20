@@ -1,3 +1,9 @@
+---
+layout: default
+title: Example Documentation
+permalink: /training/example/
+---
+
 [Home](/index.md) / Example Topic
 
 <!-- <H2> 0901-SS-SY-BIS-SYSPRO Technical Knowledge Base </H2> -->
